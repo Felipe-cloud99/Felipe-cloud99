@@ -1,0 +1,18 @@
+body{
+    background:black;
+}
+
+    img{
+        width: 1255px;
+        height: 320px;
+    }
+
+    h1, p{
+        text-align: center;
+    }
+
+footer{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
